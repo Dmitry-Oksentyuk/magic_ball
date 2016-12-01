@@ -1,7 +1,7 @@
-Ппрограмма волшебный шар
-Выдает случайным образом ответ на поставленный вопрос
-Всего возможно 4 варианта ответов:
-1) Положительные
-2) Нерешительно положительные
-3) Нейтральные
-4) Отрицательные
+The program is a magic ball
+Produces random answer to the question
+4 Total possible variants of answers:
+1) Positive
+2) positive Hesitantly
+3) Neutral
+4) Negative
