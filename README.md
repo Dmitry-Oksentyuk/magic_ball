@@ -11,4 +11,4 @@ Produces random answer to the question
 
 program is run from the command line
 
-Ruby magic ball.rb
+ruby magic ball.rb
