@@ -1,14 +1,14 @@
-The program is a magic ball
+Программа имитирует работу известной игрушки "Волшебный шар"
+https://ru.wikipedia.org/wiki/Magic_8_ball
 
-Produces random answer to the question
+Возможно 4 варианта ответа
 
-4 Total possible variants of answers:
-
-1) Positive
-2) positive Hesitantly
-3) Neutral
-4) Negative
+1. Положительный
+2. Нерешительно положительный
+3. Нейтральный 
+4. Отрицательный
 
 program is run from the command line
 
 ruby magic_ball.rb
+фавмывмаывам
