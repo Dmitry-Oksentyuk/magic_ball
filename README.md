@@ -1,4 +1,5 @@
 Программа имитирует работу известной игрушки "Волшебный шар"
+
 https://ru.wikipedia.org/wiki/Magic_8_ball
 
 Возможно 4 варианта ответа
@@ -8,7 +9,6 @@ https://ru.wikipedia.org/wiki/Magic_8_ball
 3. Нейтральный 
 4. Отрицательный
 
-program is run from the command line
+Програма запускается из командной строки
 
-ruby magic_ball.rb
-фавмывмаывам
+`ruby magic_ball.rb`
